@@ -1,0 +1,18 @@
+header,
+main,
+footer {
+    width: 800px;
+    margin-left: calc((100% - 800px) / 2);
+}
+
+header {
+    background-color: papayawhip;
+}
+
+main {
+    background-color: azure;
+}
+
+footer {
+    background-color: beige;
+}
