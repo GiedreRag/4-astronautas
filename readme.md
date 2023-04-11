@@ -15,8 +15,8 @@ _website design project_
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
 Site published at: https://giedrerag.github.io/4-astronautas/
-Design: [Astronautas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-i5m47JMGAhGVIdQPThnDQ.jpeg)
-
+Design: [Astronautas](https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space?mode=media)
+˚
 ## 🎯 Project features/goals
 
 -   Github pages
